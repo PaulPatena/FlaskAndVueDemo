@@ -1,8 +1,8 @@
 {
-  "name": "taipan-science-ui",
+  "name": "gui",
   "version": "1.0.0",
-  "description": "taipan user interface for science",
-  "author": "Paul Patena <Paul.Patena@leicabiosystems.com>",
+  "description": "gui",
+  "author": "Paul Patena <paulmichaelpatena@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

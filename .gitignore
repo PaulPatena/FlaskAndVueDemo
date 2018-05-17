@@ -3,5 +3,4 @@ gui/.idea/**
 server/.idea/**
 gui/node_modules/**
 gui/dist/**
-gui/build/**
 
