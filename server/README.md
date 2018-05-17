@@ -15,6 +15,9 @@ py -3 -m pip install -r requirements.txt
 # Mac/Linux
 sudo python3 -m pip install -r requirements.txt
 
+# Go to src folder
+cd src
+
 # Serve in debug mode
 # Windows
 py -3 server.py
