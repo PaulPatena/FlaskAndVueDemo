@@ -4,11 +4,11 @@
 
 ### I choose python as the backend because it is simple to learn, cross platform, and it can run on a raspberry pi out of the box for your IoT projects.
 
-### Having worked with Angular, React and Vue, in personal opinion Vue is the best because it is easily to learn, more maintainable, leverages on your HTML, JS, CSS knowledge and lastly combines the strengths of Angular and React.
+### Having worked with Angular, React and Vue, in my personal opinion Vue is the best because it is easy to learn, has good documentation, east to maintai, leverages on your HTML, JS, CSS knowledge and lastly combines the strengths of Angular and React.
 
 ### This project has two subprojects GUI which is the frontend while SERVER is the backend and they both have their corresponding README.
 
-If you have any questions, feel free to drop me <a href="mailto:paulmichaelpatena@gmail.com?Subject=Getting Started with Flask and Vue">me</a> and email.
+### If you have any questions, feel free to drop me <a href="mailto:paulmichaelpatena@gmail.com?Subject=Getting Started with Flask and Vue">me</a> and email.
 
 ![Home Page](home.png "Home Page")
 ![Demo Page](demo.png "Demo Page")
