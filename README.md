@@ -8,7 +8,10 @@
 
 ### This project has two subprojects GUI which is the frontend while SERVER is the backend and they both have their corresponding README.
 
-<img src="https://github.com/PaulPatena/FlaskAndVueDemo/demo.png" alt="">
-<img src="https://github.com/PaulPatena/FlaskAndVueDemo/home.png" alt="">
-
 If you have any questions, feel free to drop me <a href="mailto:paulmichaelpatena@gmail.com?Subject=Getting Started with Flask and Vue">me</a> and email.
+
+![Home Page](home.png "Home Page")
+![Demo Page](demo.png "Demo Page")
+
+[README for FLASK GUI](gui/README.md)
+[README for PYTHON SERVER](server/README.md)
