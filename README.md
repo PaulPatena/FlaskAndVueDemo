@@ -14,4 +14,5 @@ If you have any questions, feel free to drop me <a href="mailto:paulmichaelpaten
 ![Demo Page](demo.png "Demo Page")
 
 [README for FLASK GUI](gui/README.md)
+
 [README for PYTHON SERVER](server/README.md)
